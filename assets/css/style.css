@@ -22,9 +22,13 @@ margin-right: 13px;
   text-align: center;
 }
 
-.body 1 a {
+.body  a {
   text-decoration: none;
+  background: radial-gradient(circle, rgba(174,234,238,0.5088410364145659) 0%, rgba(43,52,244,0.5172443977591037) 100%);
 }
+
+
+
 
 aside.context {
   text-align: center;
